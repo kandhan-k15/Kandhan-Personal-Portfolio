@@ -72,15 +72,11 @@ No additional installation is required.
 
 ## Screenshots
 
-Screenshots of the desktop and mobile versions of the portfolio can be added here.
-
 ### Desktop View
-
-Add your desktop screenshot here.
+![Desktop Portfolio](desktop.png)
 
 ### Mobile View
-
-Add your mobile screenshot here.
+![Mobile Portfolio](mobile.png)
 
 ## Acknowledgement
 
