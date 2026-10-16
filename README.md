@@ -73,10 +73,10 @@ No additional installation is required.
 ## Screenshots
 
 ### Desktop View
-![Desktop Portfolio](desktop.png)
+![Desktop Portfolio](desktop_screenshot.png)
 
 ### Mobile View
-![Mobile Portfolio](mobile.png)
+![Mobile Portfolio](mobile_screenshot.png)
 
 ## Acknowledgement
 
