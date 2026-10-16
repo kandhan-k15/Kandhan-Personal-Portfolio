@@ -60,7 +60,7 @@ A learning project focused on database design and organizing information using d
 
 1. Download or clone this repository.
 2. Open the project folder.
-3. Double-click `kdn's portfolio.html` to open the website in your browser.
+3. Double-click `index.html` to open the website in your browser.
 
 No additional installation is required.
 
